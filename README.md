@@ -1,1 +1,1 @@
-# DCET2600528
+# DCET2600528 Hello, I am Akash, a AI DS student interested in software development, artificial intelligence, machine learning, and data science. I am continuously improving my programming and technical skills through practical projects and learning new technologies.
