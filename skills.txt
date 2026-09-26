@@ -1,0 +1,7 @@
+Technical Skills:
+- C Programming
+- Java
+- Python
+- HTML and CSS
+- MySQL
+- Git and GitHub
