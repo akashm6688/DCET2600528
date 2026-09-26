@@ -1,0 +1,4 @@
+Name: Akash
+ADMISSION Number: DCET2600528
+Field: AI DS 
+Interests: Artificial Intelligence, Data Science , PYTHON
